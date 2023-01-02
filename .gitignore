@@ -1,0 +1,7 @@
+.DS_Store
+wp-content/uploads
+wp-content/wflogs
+
+wp-content/themes/idc-theme/tc-framework
+
+node_modules
