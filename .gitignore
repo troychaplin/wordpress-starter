@@ -2,6 +2,7 @@
 wp-content/uploads
 wp-content/wflogs
 
-wp-content/themes/idc-theme/tc-framework
+wp-content/themes/*
+wp-content/plugins/*
 
 node_modules
